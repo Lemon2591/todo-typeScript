@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "iphone",
+      "price": "2500000",
+      "descriptions": "256GB",
+      "id": 1
+    },
+    {
+      "name": "samsung",
+      "price": "2500000",
+      "descriptions": "256GB",
+      "id": 2
+    },
+    {
+      "name": "qưeqweqwe",
+      "price": "qeqweqw",
+      "descriptions": "qưeqweqweqwe",
+      "id": 3
+    },
+    {
+      "name": "qưeqweqweưqeqweq",
+      "price": "qeqweqwqưeqweqwe",
+      "descriptions": "qưeqweqweqwe",
+      "id": 4
+    },
+    {
+      "name": "ưeqweqweqweqwqưeqweqweưqeqweq",
+      "price": "qeqweqwqưeqweqwe",
+      "descriptions": "qưeqweqweqwe",
+      "id": 5
+    },
+    {
+      "name": "qqeqeq",
+      "price": "eqweqwe",
+      "descriptions": "ưeqwewq",
+      "id": 6
+    },
+    {
+      "name": "qeqwee",
+      "price": "eqweq",
+      "descriptions": "qeqeqew",
+      "id": 7
+    },
+    {
+      "name": "ádasd",
+      "price": "ádsda",
+      "descriptions": "dấdadasdas",
+      "id": 8
+    }
+  ]
+}
