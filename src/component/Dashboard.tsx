@@ -12,9 +12,9 @@ export interface IValue {
 
 function Dashboard() {
   const [value, setValue] = React.useState<IValue>({
-    name: "312312",
-    price: "123213",
-    descriptions: "21312312",
+    name: "",
+    price: "",
+    descriptions: "",
   });
   const dispatch = useDispatch();
   const onGetValue = (e: any) => {
@@ -27,12 +27,6 @@ function Dashboard() {
   const pushValue = () => {
     dispatch({ type: constants.POST_DATA, payload: value });
     dispatch({ type: constants.GET_DATA });
-
-    // setValue({
-    //   name: "",
-    //   price: "",
-    //   descriptions: "",
-    // });
   };
 
   return (
